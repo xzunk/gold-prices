@@ -28,7 +28,7 @@ python scripts/process.py
 ## Automation
 
 This dataset is automatically updated daily via GitHub Actions. View the dataset on DataHub: https://datahub.io/core/gold-prices
-
+Sri Lankan Gold Price : https://tools.unicodesinhala.com/gold-price
 ## License
 
 The maintainers have licensed this dataset under the Public Domain Dedication and License. The World Bank data is freely available with no obvious restrictions; the Timothy Green historical records similarly carry no known restrictions.
